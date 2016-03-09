@@ -1,0 +1,10 @@
+{
+    "name": "getid3/getid3",
+    "authors": [
+        {
+            "name": "José Laya",
+            "email": "josel@bunnyinc.com"
+        }
+    ],
+    "require": {}
+}
